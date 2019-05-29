@@ -8,6 +8,8 @@ Ai-Thinker GPRS development SDK written by C
 [English Version](./README_EN.md)
 
 
+### (一) 开发心得
+	imei未空需要通过指令写入sdk才能获得
 
 ## (一) 硬件
 
