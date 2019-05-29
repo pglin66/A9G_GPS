@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\include",
+    "\\app\\src",
+    "\\demo",
+    "\\demo\\gps_agps",
+    "\\demo\\gps_agps\\src",
+    "\\demo\\sms",
+    "\\demo\\sms\\src",
+    "\\demo\\socket2"
+  ],
+  "SelectedNode": "\\demo\\sms\\src\\demo_sms.c",
+  "PreviewInSolutionExplorer": false
+}
